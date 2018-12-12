@@ -1,2 +1,2 @@
 # cmd
-command_line
+Command line training files
